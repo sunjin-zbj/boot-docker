@@ -1,1 +1,1 @@
-整合了eureka 和 config
+整合了eureka 和 config，注意版本号
